@@ -1,1 +1,1 @@
-# Aplicativod de clima em python
+# Aplicativo de clima em python
